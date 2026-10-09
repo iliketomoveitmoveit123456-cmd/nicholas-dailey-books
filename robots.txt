@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iliketomoveitmoveit123456-cmd.github.io/nicholas-dailey-books/sitemap.xml
